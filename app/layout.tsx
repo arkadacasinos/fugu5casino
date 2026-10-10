@@ -10,6 +10,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="f2e82b9553cfd3e0" />
         <title>Fugu Casino официальный сайт — играть онлайн, рабочее зеркало Фугу Казино 2026</title>
         <meta
           name="description"
